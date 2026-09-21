@@ -1,0 +1,8 @@
+## Python Cache
+__pycache__/ 
+*.pyc
+
+## Keys & Passwords
+.env
+
+## This file will ignore those files that contain cache storage and private information to be pushed to the repository.
